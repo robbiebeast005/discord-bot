@@ -1,2 +1,8 @@
 # Discord Bot
-This is a very basic guild to make your first discord bot
+This is a very basic guild to make your first discord bot.
+
+## Install discord.py
+First of all, you need to install de discord library. With python3, you can install the liberty by pasting the following pip command:
+```
+pip install discord.py
+```
