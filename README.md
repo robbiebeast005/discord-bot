@@ -1,2 +1,2 @@
-# discord-bot
+# Discord Bot
 This is a very basic guild to make your first discord bot
